@@ -1,4 +1,4 @@
-### Hi there 👋
+### DX4RK
 
 <!--
 **DX4RKl/DX4RKl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
